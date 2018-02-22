@@ -2,9 +2,8 @@ discord_bot.py
 ==========
 #### INSTALL PRE-REQUISITES FOR PYTHON 3.6.X AND DISCORD.PY
 Install libssl-dev (to ensure we can use pip when we install the newest version of Python):
-```
-sudo apt-get install libssl-dev
-```
+>sudo apt-get install libssl-dev
+
 
 Install libffi-dev (to ensure audio works with the Discord bot):
 ```
