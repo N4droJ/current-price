@@ -5,6 +5,7 @@ Install libssl-dev (to ensure we can use pip when we install the newest version 
 ```
 sudo apt-get install libssl-dev
 ```
+
 Install libffi-dev (to ensure audio works with the Discord bot):
 ```
 sudo apt-get install libffi-dev
