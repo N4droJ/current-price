@@ -1,6 +1,9 @@
 discord_bot.py
 ==========
 ### INSTALL PRE-REQUISITES FOR PYTHON 3.6.X AND DISCORD.PY
+Install pip
+>sudo apt install python-pip
+
 Install libssl-dev (to ensure we can use pip when we install the newest version of Python):
 >sudo apt-get install libssl-dev
 
@@ -30,7 +33,9 @@ Run make to start compiling the software
 Install Python 3.6.x
 >sudo make install
 
-### INSTALL DISCORY.PY, AND GET A BOT WORKING
+### INSTALL DISCORY.PY, AND GET THE BOT WORKING
+
+
 Install latest version of the Discord library for Python (Discord.Py)
 >sudo python3 -m pip install -U discord.py[voice]
 
