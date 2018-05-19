@@ -10,6 +10,8 @@ Install libffi-dev (to ensure audio works with the Discord bot):
 Install libsqlite3-dev (this will be handy, as it installs libraries needed to install sqlite3 support):
 >sudo apt-get install libsqlite3-dev
 
+no acceptable C compiler found in $PATH when installing python
+>sudo apt-get install build-essential 
 
 ### INSTALL PYTHON 3.6.X
 Grab the latest version of Python 3.x from https://www.python.org/downloads/:
